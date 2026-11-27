@@ -2,337 +2,409 @@
   "watch": {
     "BTC-SWAP-USDT": {
       "first_seen": 1795808861.6994622,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 4
-    },
-    "ETH-SWAP-USDT": {
-      "first_seen": 1795808861.6994622,
-      "last_seen": 1795815573.9983554,
-      "direction": "LONG",
-      "best_score": 5.0
+      "best_score": 5
     },
     "SOL-SWAP-USDT": {
       "first_seen": 1795808861.6994622,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 4
     },
-    "XRP-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "LONG",
-      "best_score": 6
-    },
     "SNDK-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
       "best_score": 5
     },
     "PORTAL-SWAP-USDT": {
       "first_seen": 1795802136.4457467,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 4.0
-    },
-    "BNB-SWAP-USDT": {
-      "first_seen": 1795805473.0763812,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 6.0
-    },
-    "SPCX-SWAP-USDT": {
-      "first_seen": 1795802136.4457467,
-      "last_seen": 1795815573.9983554,
-      "direction": "LONG",
-      "best_score": 6.0
-    },
-    "ZEC-SWAP-USDT": {
-      "first_seen": 1795775815.196221,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 6
-    },
-    "ADA-SWAP-USDT": {
-      "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 7
-    },
-    "SSV-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 3
-    },
-    "SKHY-SWAP-USDT": {
-      "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 4
     },
+    "DOGE-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
+    "SPCX-SWAP-USDT": {
+      "first_seen": 1795802136.4457467,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 6
+    },
+    "ZEC-SWAP-USDT": {
+      "first_seen": 1795775815.196221,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 6.0
+    },
+    "ADA-SWAP-USDT": {
+      "first_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
+      "direction": "SHORT",
+      "best_score": 7
+    },
+    "SKHY-SWAP-USDT": {
+      "first_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
+    },
+    "SSV-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 3
+    },
     "BULLA-SWAP-USDT": {
       "first_seen": 1795808861.6994622,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 4.0
     },
+    "AAVE-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
+    },
     "AVAX-SWAP-USDT": {
       "first_seen": 1795805473.0763812,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 5
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 6
     },
     "NEAR-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
+    },
+    "EVAA-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
       "direction": "SHORT",
       "best_score": 4
     },
     "1000PEPE-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 7
-    },
-    "MMT-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 3
-    },
-    "QNT-SWAP-USDT": {
-      "first_seen": 1795802136.4457467,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
       "best_score": 7.0
     },
     "HAEDAL-SWAP-USDT": {
       "first_seen": 1795783109.7744327,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 6
+      "best_score": 6.0
+    },
+    "QNT-SWAP-USDT": {
+      "first_seen": 1795802136.4457467,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 7.0
+    },
+    "UNI-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
     },
     "PONS-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 3
+      "best_score": 4
     },
     "AMD-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 4
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
     },
-    "AKE-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 4.0
+    "XMR-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
+    "BIGTIME-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
     },
     "BLUR-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
       "best_score": 3
     },
     "PAXG-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
       "best_score": 6.0
     },
     "BTW-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 4
     },
     "LISTA-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "SHORT",
       "best_score": 4
     },
     "WLD-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 4
+      "best_score": 5
     },
     "TON-SWAP-USDT": {
       "first_seen": 1795798753.754891,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
+    "BLESS-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 5
     },
     "INJ-SWAP-USDT": {
       "first_seen": 1795791333.6478693,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 6.0
+      "best_score": 6
     },
     "TAO-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 4
     },
     "PUMP2-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 5
     },
     "BCH-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 4
     },
+    "VVV-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "SHORT",
+      "best_score": 6
+    },
     "LTC-SWAP-USDT": {
       "first_seen": 1795808861.6994622,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 5.0
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
     },
     "FET-SWAP-USDT": {
       "first_seen": 1795808861.6994622,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "SHORT",
       "best_score": 5.0
     },
     "FIL-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 4
-    },
-    "APT-SWAP-USDT": {
-      "first_seen": 1795808861.6994622,
-      "last_seen": 1795815573.9983554,
-      "direction": "LONG",
-      "best_score": 5.0
-    },
-    "THE-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "LONG",
-      "best_score": 3
-    },
-    "LINK-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 4
-    },
-    "ARB-SWAP-USDT": {
-      "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 4
-    },
-    "ONE-SWAP-USDT": {
-      "first_seen": 1795805473.0763812,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
       "best_score": 5
     },
-    "ELSA-SWAP-USDT": {
-      "first_seen": 1795794873.4699016,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 4.0
+    "TRUMP-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
     },
-    "ZRO-SWAP-USDT": {
+    "THE-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "SHORT",
+      "best_score": 5
+    },
+    "DASH-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
+    "UNITREE-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
+    },
+    "LINK-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
+    "ARB-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 3
+      "best_score": 5
     },
-    "DOT-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
+    "VELVET-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
       "direction": "SHORT",
-      "best_score": 5.0
+      "best_score": 5
     },
-    "LDO-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 6
-    },
-    "BAT-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "LONG",
-      "best_score": 5.0
-    },
-    "ONDO-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
+    "MANTRA-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
       "direction": "SHORT",
       "best_score": 4
     },
+    "SKY-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 3
+    },
+    "ELSA-SWAP-USDT": {
+      "first_seen": 1795794873.4699016,
+      "last_seen": 1795819105.7263167,
+      "direction": "SHORT",
+      "best_score": 4.0
+    },
+    "TRX-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "SHORT",
+      "best_score": 4
+    },
+    "DOT-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
+    "IDOL-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 3
+    },
+    "ZRO-SWAP-USDT": {
+      "first_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
+    },
+    "DODOX-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "SHORT",
+      "best_score": 5
+    },
+    "LDO-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 6.0
+    },
+    "BAT-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 6
+    },
+    "XLM-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
+    "ONDO-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
+    },
     "1000SHIB-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
       "best_score": 5
     },
     "COOKIE-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "LONG",
-      "best_score": 5
-    },
-    "HEI-SWAP-USDT": {
-      "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "SHORT",
-      "best_score": 4
+      "best_score": 5.0
+    },
+    "BMNR-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "SHORT",
+      "best_score": 5
     },
     "CBRS-SWAP-USDT": {
       "first_seen": 1795812094.162236,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 5
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 6
     },
-    "SOPH-SWAP-USDT": {
-      "first_seen": 1795794873.4699016,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 5
+    "HEI-SWAP-USDT": {
+      "first_seen": 1795812094.162236,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 6
     },
     "ARIA-SWAP-USDT": {
       "first_seen": 1795815573.9983554,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
-      "best_score": 3
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 4
+    },
+    "TLM-SWAP-USDT": {
+      "first_seen": 1795819105.7263167,
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
+      "best_score": 5
     },
     "SEI-SWAP-USDT": {
       "first_seen": 1795798753.754891,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
       "best_score": 5
     },
     "HBAR-SWAP-USDT": {
       "first_seen": 1795775815.196221,
-      "last_seen": 1795815573.9983554,
-      "direction": "SHORT",
+      "last_seen": 1795819105.7263167,
+      "direction": "LONG",
       "best_score": 5.0
     },
     "COLLECT-SWAP-USDT": {
       "first_seen": 1795783109.7744327,
-      "last_seen": 1795815573.9983554,
+      "last_seen": 1795819105.7263167,
       "direction": "LONG",
-      "best_score": 5
+      "best_score": 5.0
     }
   },
   "last_alert": {
-    "BTC-SWAP-USDT": 1795802136.4457467,
+    "BTC-SWAP-USDT": 1795819105.7263167,
     "XRP-SWAP-USDT": 1795802136.4457467,
     "TON-SWAP-USDT": 1795815573.9983554,
     "LTC-SWAP-USDT": 1795802136.4457467,
@@ -348,7 +420,7 @@
     "DODOX-SWAP-USDT": 1795791333.6478693,
     "NEAR-SWAP-USDT": 1795705446.1600568,
     "1000PEPE-SWAP-USDT": 1795815573.9983554,
-    "PUMP2-SWAP-USDT": 1795772270.0074458,
+    "PUMP2-SWAP-USDT": 1795819105.7263167,
     "DASH-SWAP-USDT": 1795779229.626749,
     "TAO-SWAP-USDT": 1795798753.754891,
     "HOT-SWAP-USDT": 1795413605.2636912,
@@ -359,8 +431,8 @@
     "UNI-SWAP-USDT": 1795798753.754891,
     "QNT-SWAP-USDT": 1795812094.162236,
     "APT-SWAP-USDT": 1795812094.162236,
-    "WLD-SWAP-USDT": 1795697096.7817311,
-    "INJ-SWAP-USDT": 1795805473.0763812,
+    "WLD-SWAP-USDT": 1795819105.7263167,
+    "INJ-SWAP-USDT": 1795819105.7263167,
     "FIL-SWAP-USDT": 1795805473.0763812,
     "VVV-SWAP-USDT": 1795731507.8190246,
     "BTW-SWAP-USDT": 1795787963.263968,
@@ -392,7 +464,7 @@
     "KERNEL-SWAP-USDT": 1795367552.4446223,
     "RARE-SWAP-USDT": 1795452401.2016716,
     "AKE-SWAP-USDT": 1795754985.7402756,
-    "BAT-SWAP-USDT": 1795802136.4457467,
+    "BAT-SWAP-USDT": 1795819105.7263167,
     "PENGU-SWAP-USDT": 1795664422.1634624,
     "ONDO-SWAP-USDT": 1795798753.754891,
     "ZRO-SWAP-USDT": 1795731507.8190246,
@@ -422,7 +494,7 @@
     "JUP-SWAP-USDT": 1795539418.6381352,
     "KAVA-SWAP-USDT": 1795808861.6994622,
     "INIT-SWAP-USDT": 1795681016.8135166,
-    "SPCX-SWAP-USDT": 1795805473.0763812,
+    "SPCX-SWAP-USDT": 1795819105.7263167,
     "BLESS-SWAP-USDT": 1795787963.263968,
     "BERA-SWAP-USDT": 1795432751.5864537,
     "AMD-SWAP-USDT": 1795805473.0763812,
@@ -466,74 +538,74 @@
     "HAEDAL-SWAP-USDT": 1795815573.9983554
   },
   "last_oi": {
-    "BTC-SWAP-USDT": 48863.14554,
-    "ETH-SWAP-USDT": 1005415.13745,
-    "SOL-SWAP-USDT": 4762311.483,
-    "XRP-SWAP-USDT": 129480536.355,
-    "BNB-SWAP-USDT": 46752.997,
-    "DOGE-SWAP-USDT": 516217687.5,
-    "HYPE-SWAP-USDT": 425497.14,
-    "ADA-SWAP-USDT": 143336618.0,
-    "DODOX-SWAP-USDT": 32161412.35,
-    "AVAX-SWAP-USDT": 1840440.9,
-    "BLESS-SWAP-USDT": 192402835.05,
-    "AAVE-SWAP-USDT": 133635.14,
-    "NEAR-SWAP-USDT": 3903408.05,
-    "ZEC-SWAP-USDT": 31696.15645,
-    "EVAA-SWAP-USDT": 6262432.455,
-    "SPCX-SWAP-USDT": 196315.2575,
+    "BTC-SWAP-USDT": 48476.72204,
+    "ETH-SWAP-USDT": 1005319.1419,
+    "SOL-SWAP-USDT": 4727139.164,
+    "XRP-SWAP-USDT": 130236018.91,
+    "BNB-SWAP-USDT": 46915.326,
+    "DOGE-SWAP-USDT": 509200877.05,
+    "HYPE-SWAP-USDT": 416743.35,
+    "ADA-SWAP-USDT": 141689409.55,
+    "DODOX-SWAP-USDT": 32256767.4,
+    "AVAX-SWAP-USDT": 1854055.9,
+    "BLESS-SWAP-USDT": 190706367.6,
+    "AAVE-SWAP-USDT": 133337.0,
+    "NEAR-SWAP-USDT": 3891560.65,
+    "ZEC-SWAP-USDT": 31179.8277,
+    "EVAA-SWAP-USDT": 6247868.64,
+    "SPCX-SWAP-USDT": 197679.052,
     "RARE-SWAP-USDT": 92925840.85,
-    "1000PEPE-SWAP-USDT": 2945859745.05,
-    "UNI-SWAP-USDT": 1187386.2,
-    "QNT-SWAP-USDT": 39236.385,
-    "SNDK-SWAP-USDT": 779401.2655,
-    "SUI-SWAP-USDT": 7742891.765,
-    "PIEVERSE-SWAP-USDT": 2431878.55,
-    "AKE-SWAP-USDT": 3891672709.4,
-    "ENA-SWAP-USDT": 55246229.85,
-    "MMT-SWAP-USDT": 48179030.05,
-    "IDOL-SWAP-USDT": 82007554.4,
-    "APT-SWAP-USDT": 5203532.36,
-    "WLD-SWAP-USDT": 13166066.65,
-    "TON-SWAP-USDT": 3319880.925,
-    "PUMP2-SWAP-USDT": 1110452787.1,
-    "SKHY-SWAP-USDT": 150021.89,
+    "1000PEPE-SWAP-USDT": 2947028054.85,
+    "UNI-SWAP-USDT": 1163472.1,
+    "QNT-SWAP-USDT": 39392.31,
+    "SNDK-SWAP-USDT": 786936.682,
+    "SUI-SWAP-USDT": 7647836.55,
+    "PIEVERSE-SWAP-USDT": 2428934.9,
+    "AKE-SWAP-USDT": 3830066249.5,
+    "ENA-SWAP-USDT": 55226716.0,
+    "MMT-SWAP-USDT": 48042438.85,
+    "IDOL-SWAP-USDT": 80894658.5,
+    "APT-SWAP-USDT": 5312662.18,
+    "WLD-SWAP-USDT": 13176730.3,
+    "TON-SWAP-USDT": 3315092.825,
+    "PUMP2-SWAP-USDT": 1104494357.15,
+    "SKHY-SWAP-USDT": 150993.713,
     "ENSO-SWAP-USDT": 2828977.465,
-    "TAO-SWAP-USDT": 14832.4747,
-    "DASH-SWAP-USDT": 52855.6135,
-    "INJ-SWAP-USDT": 444291.96,
-    "FIL-SWAP-USDT": 4063098.645,
-    "LTC-SWAP-USDT": 60129.8283,
+    "TAO-SWAP-USDT": 14857.60885,
+    "DASH-SWAP-USDT": 53233.2114,
+    "INJ-SWAP-USDT": 447645.715,
+    "FIL-SWAP-USDT": 4039538.165,
+    "LTC-SWAP-USDT": 59374.3106,
     "KERNEL-SWAP-USDT": 22884948.0,
-    "VVV-SWAP-USDT": 91111.9015,
-    "TRUMP-SWAP-USDT": 2261687.988,
-    "BCH-SWAP-USDT": 12762.17365,
-    "XMR-SWAP-USDT": 11616.14885,
-    "BTW-SWAP-USDT": 3139097.4,
+    "VVV-SWAP-USDT": 96182.999,
+    "TRUMP-SWAP-USDT": 2276160.0085,
+    "BCH-SWAP-USDT": 12871.673,
+    "XMR-SWAP-USDT": 11400.74735,
+    "BTW-SWAP-USDT": 3151159.5,
     "HOT-SWAP-USDT": 2673718588.2,
-    "LINK-SWAP-USDT": 227106.9395,
-    "PAXG-SWAP-USDT": 1001.4337,
+    "LINK-SWAP-USDT": 228050.2265,
+    "PAXG-SWAP-USDT": 998.3918,
     "CYBER-SWAP-USDT": 5126497.395,
-    "LIT2-SWAP-USDT": 617898.95,
+    "LIT2-SWAP-USDT": 634568.2,
     "BARD-SWAP-USDT": 8672909.7,
-    "AMD-SWAP-USDT": 12086.3445,
-    "ELSA-SWAP-USDT": 16472472.85,
-    "ARB-SWAP-USDT": 17687629.065,
+    "AMD-SWAP-USDT": 12202.979,
+    "ELSA-SWAP-USDT": 15800564.4,
+    "ARB-SWAP-USDT": 17361336.645,
     "ASTER-SWAP-USDT": 1731886.75,
-    "ONDO-SWAP-USDT": 4666474.305,
-    "XLM-SWAP-USDT": 10007593.55,
+    "ONDO-SWAP-USDT": 4705878.88,
+    "XLM-SWAP-USDT": 10125109.35,
     "SKYAI-SWAP-USDT": 25919641.85,
-    "1000SHIB-SWAP-USDT": 339582894.05,
-    "TRX-SWAP-USDT": 5114113.7,
-    "DOT-SWAP-USDT": 2158380.165,
-    "BAT-SWAP-USDT": 16382637.83,
-    "ICNT-SWAP-USDT": 5444966.3,
+    "1000SHIB-SWAP-USDT": 335577759.15,
+    "TRX-SWAP-USDT": 5053656.05,
+    "DOT-SWAP-USDT": 2124529.725,
+    "BAT-SWAP-USDT": 16727232.64,
+    "ICNT-SWAP-USDT": 5604454.45,
     "JCT-SWAP-USDT": 598069868.91,
-    "LDO-SWAP-USDT": 5272099.2,
-    "FET-SWAP-USDT": 17348022.4,
-    "HBAR-SWAP-USDT": 18032466.9,
+    "LDO-SWAP-USDT": 5300127.2,
+    "FET-SWAP-USDT": 17391832.8,
+    "HBAR-SWAP-USDT": 17482012.6,
     "PROM-SWAP-USDT": 153853.14,
-    "ZRO-SWAP-USDT": 1275991.96,
+    "ZRO-SWAP-USDT": 1230691.03,
     "IRYS-SWAP-USDT": 60531525.25,
     "ICP-SWAP-USDT": 437668.59,
     "ORCA-SWAP-USDT": 772133.07,
@@ -545,41 +617,41 @@
     "PLUME-SWAP-USDT": 100648785.57,
     "SAND-SWAP-USDT": 25969779.7,
     "BR-SWAP-USDT": 2168631.6,
-    "WLFI-SWAP-USDT": 50299302.45,
+    "WLFI-SWAP-USDT": 53365491.9,
     "CAPAPP-SWAP-USDT": 9355165.45,
     "BREV-SWAP-USDT": 15653858.2,
     "ETHFI-SWAP-USDT": 1973449.33,
     "MAGMA-SWAP-USDT": 2723857.6,
-    "INIT-SWAP-USDT": 90029341.2,
+    "INIT-SWAP-USDT": 88132019.2,
     "USELESS-SWAP-USDT": 10886111.18,
-    "ARIA-SWAP-USDT": 2983107.7,
-    "BULLA-SWAP-USDT": 236858827.0,
+    "ARIA-SWAP-USDT": 2987016.75,
+    "BULLA-SWAP-USDT": 214252023.95,
     "AIGENSYN-SWAP-USDT": 50318062.5,
     "NAORIS-SWAP-USDT": 29628305.67,
     "NIGHT-SWAP-USDT": 23988758.8,
     "ATOM-SWAP-USDT": 610839.79,
     "MARSCOIN-SWAP-USDT": 25487322.4,
     "KAVA-SWAP-USDT": 35102631.87,
-    "PONS-SWAP-USDT": 52275305.25,
-    "VELVET-SWAP-USDT": 17471413.2,
+    "PONS-SWAP-USDT": 52489745.05,
+    "VELVET-SWAP-USDT": 17621261.2,
     "ENJ-SWAP-USDT": 54036901.25,
-    "LISTA-SWAP-USDT": 34648676.6,
+    "LISTA-SWAP-USDT": 34562785.4,
     "JUP-SWAP-USDT": 3838883.95,
-    "UNITREE-SWAP-USDT": 17521.755,
+    "UNITREE-SWAP-USDT": 17522.049,
     "BERA-SWAP-USDT": 7203116.795,
     "H-SWAP-USDT": 68651654.25,
     "ETC-SWAP-USDT": 131982.63,
-    "SKY-SWAP-USDT": 31755352.85,
+    "SKY-SWAP-USDT": 36179256.85,
     "LSK-SWAP-USDT": 6346986.3,
     "MUBARAK-SWAP-USDT": 38969685.95,
     "MORPHO-SWAP-USDT": 583386.76,
-    "CBRS-SWAP-USDT": 10726.947,
+    "CBRS-SWAP-USDT": 10885.8995,
     "AVAAI-SWAP-USDT": 183079500.55,
     "ALGO-SWAP-USDT": 10186152.14,
-    "BMNR-SWAP-USDT": 77085.515,
+    "BMNR-SWAP-USDT": 77648.875,
     "CYS-SWAP-USDT": 17180153.15,
     "INX-SWAP-USDT": 111680918.8,
-    "ONE-SWAP-USDT": 1663735339.6,
+    "ONE-SWAP-USDT": 1670553437.35,
     "ON-SWAP-USDT": 9581251.95,
     "SAHARA-SWAP-USDT": 181711474.65,
     "MON-SWAP-USDT": 91541432.6,
@@ -589,24 +661,25 @@
     "GUA-SWAP-USDT": 18757694.3,
     "OPG-SWAP-USDT": 4617257.8,
     "ONG-SWAP-USDT": 13755350.2,
-    "BIGTIME-SWAP-USDT": 689478483.65,
+    "BIGTIME-SWAP-USDT": 684573083.85,
     "WAXP-SWAP-USDT": 198445586.0,
-    "MANTRA-SWAP-USDT": 715839645.0,
-    "SSV-SWAP-USDT": 6350039.044,
+    "MANTRA-SWAP-USDT": 692705413.5,
+    "SSV-SWAP-USDT": 6089881.0655,
     "SOLSTICE-SWAP-USDT": 27428696.0,
     "MOODENG-SWAP-USDT": 26955931.21,
-    "BLUR-SWAP-USDT": 429643966.05,
+    "BLUR-SWAP-USDT": 452673513.55,
     "LAYER-SWAP-USDT": 16295495.539,
     "AT-SWAP-USDT": 6962213.0,
-    "SEI-SWAP-USDT": 25135614.2,
+    "SEI-SWAP-USDT": 24264852.15,
     "WIF-SWAP-USDT": 5337946.6,
-    "HAEDAL-SWAP-USDT": 222408097.95,
-    "SOPH-SWAP-USDT": 1046225359.0,
-    "CFG-SWAP-USDT": 34938621.85,
-    "PORTAL-SWAP-USDT": 1981197645.23,
-    "COLLECT-SWAP-USDT": 21924991.0,
-    "COOKIE-SWAP-USDT": 116207210.6,
-    "THE-SWAP-USDT": 53854241.825,
-    "HEI-SWAP-USDT": 11996356.065
+    "HAEDAL-SWAP-USDT": 224928347.95,
+    "SOPH-SWAP-USDT": 988070590.65,
+    "CFG-SWAP-USDT": 34987436.3,
+    "PORTAL-SWAP-USDT": 2026216079.53,
+    "COLLECT-SWAP-USDT": 21790345.65,
+    "COOKIE-SWAP-USDT": 117619061.9,
+    "THE-SWAP-USDT": 57335599.75,
+    "HEI-SWAP-USDT": 12133765.005,
+    "TLM-SWAP-USDT": 989031763.1
   }
 }
